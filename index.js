@@ -1,5 +1,5 @@
 var recipes = {};
 
-function pdateObjectWithKeyAndValue(object, key, value){
+function updateObjectWithKeyAndValue(object, key, value){
   
 }
